@@ -25,7 +25,7 @@ function Copyright(props) {
     return (
         <Typography variant="body2" color="text.secondary" align="center" {...props}>
             {'Developed with 🖤 by '}
-            <strong><a className='text-style' href="https://github.com/Foy5al" target="_blank" rel="noreferrer noopener">Mohammd Foysal</a> </strong>{'Copyright ©'}
+            <strong><a className='text-style' href="https://github.com/dancolion1" target="_blank" rel="noreferrer noopener">Mohammd Foysal</a> </strong>{'Copyright ©'}
             {new Date().getFullYear()}
             {'.'}
         </Typography>
@@ -75,7 +75,7 @@ const Footer = () => {
                                     <EmailIcon />
                                 </Avatar>
                                 <a className='text-style' href="mailto:mh.foysal.h@gmail.com">
-                                    mh.foysal.h@gmail.com
+                                    danieloleabhiele@gmail.com
                                 </a>
                             </Stack >
 
@@ -87,7 +87,7 @@ const Footer = () => {
                                     <CallIcon />
                                 </Avatar>
                                 <a className='text-style' href="tel:01680xxx86">
-                                    01680xxx86
+                                    2348166429924
                                 </a>
                             </Stack >
 
@@ -127,8 +127,8 @@ const Footer = () => {
                                 <Avatar sx={{ mb: 1, mt: 1, bgcolor: pink[500] }}>
                                     <FacebookIcon />
                                 </Avatar>
-                                <a className='text-style' href="https://www.facebook.com/iamfoysal.h" target="_blank" rel="noopener noreferrer" >
-                                    Foysal on Facebook
+                                <a className='text-style' href="https://www.facebook.com/louisa-mendez" target="_blank" rel="noopener noreferrer" >
+                                    Oleabhiele Daniel on Facebook
                                 </a>
                             </Stack >
 
@@ -139,8 +139,8 @@ const Footer = () => {
                                 <Avatar sx={{ mb: 1, bgcolor: pink[500] }}>
                                     <LinkedInIcon />
                                 </Avatar>
-                                <a className='text-style' href="https://www.linkedin.com/in/md-foysal-h/" target="_blank" rel="noopener noreferrer" >
-                                    Foysal on LinkedIn
+                                <a className='text-style' href="https://www.linkedin.com/in/oleabhiele-daniel-donald" target="_blank" rel="noopener noreferrer" >
+                                    Oleabhiele Daniel Donald on LinkedIn
                                 </a>
                             </Stack >
 
@@ -151,8 +151,8 @@ const Footer = () => {
                                 <Avatar sx={{ mb: 1, bgcolor: pink[500] }}>
                                     <GitHubIcon />
                                 </Avatar>
-                                <a className='text-style' href="https://github.com/Foy5al" target="_blank" rel="noopener noreferrer" >
-                                    Foysal on GitHub
+                                <a className='text-style' href="https://github.com/dancolion1" target="_blank" rel="noopener noreferrer" >
+                                    dancolion1 on GitHub
                                 </a>
                             </Stack >
 
